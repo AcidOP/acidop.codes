@@ -20,11 +20,11 @@ const LayoutWrapper = ({ children }) => {
           </Link>
           <div className="flex items-center text-base leading-5">
             <div className="hidden sm:block">
-              {headerNavLinks.map((link) => {
+              {headerNavLinks.map((link, index) => {
                 if (link.type !== 'dropdown') {
                   return (
                     <Link
-                      key={link.title}
+                      key={index}
                       href={link.href}
                       className="p-1 text-gray-100 hover:text-primary-400 sm:p-4"
                     >
