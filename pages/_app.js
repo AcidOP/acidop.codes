@@ -7,6 +7,7 @@ import '@fontsource/inter/variable-full.css'
 import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
 
+import ScrollTop from '@/components/ScrollTop'
 import siteMetadata from '@/data/siteMetadata'
 import Analytics from '@/components/analytics'
 import LayoutWrapper from '@/components/LayoutWrapper'
@@ -24,6 +25,7 @@ export default function App({ Component, pageProps }) {
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
       <LayoutWrapper>
+        <ScrollTop />
         <Component {...pageProps} />
       </LayoutWrapper>
     </ThemeProvider>
