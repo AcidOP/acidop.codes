@@ -25,7 +25,7 @@ const ScrollTop = () => {
       type="button"
       onClick={handleClick}
       style={{ opacity: show ? 1 : 0 }}
-      className="fixed right-8 bottom-8 hidden rounded-md bg-gray-800 p-2 text-gray-100 transition-opacity hover:bg-gray-700 md:inline-block"
+      className="fixed right-8 bottom-8 hidden rounded-full bg-gray-800 p-4 text-gray-100 transition-opacity hover:bg-gray-700 md:inline-block"
     >
       <svg
         className="h-[22px] w-[22px]"

@@ -15,7 +15,7 @@ export default function Hero() {
           I'm a high schooler by day, and a developer by night. I'm interested in cybersecurity,
           full stack development and designing. I'm currently learning React and Next.js.{' '}
           <p className="pt-4">
-            Read more about me here -&gt;{' '}
+            Read more about me here &rarr;{' '}
             <Link href="/about" className="text-blue-500 hover:text-blue-600">
               About
             </Link>

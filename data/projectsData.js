@@ -1,15 +1,17 @@
 const projectsData = [
   {
-    title: 'Sacred Book - Mineraft Backdoor',
-    description: `PayByFonie is a play on the app PayByPhone, a parking app that allows you to pay for parking via your phone. PayByFonie is a similar app, but allows you to search a destination and view parking meter data near that location. Users can search a location using the MapBox API, view the price and time limit of parking meters near that location, and obtain the PayByPhone meter number to pay for that meter. The app was built using React, and Node.js.`,
-    imgSrc: '/static/images/projectCards/paybyfonie.jpg',
-    href: 'https://github.com/Cwarcup/free-parking-mapper',
+    title: 'Butter Bot - Discord',
+    description:
+      'Butter Bot is a Discord bot that I made for a server I moderate. It has many features such as: a welcome message, a leveling system, confession system, and much more.',
+    imgSrc: '/static/images/projects/butter-bot.png',
+    href: 'https://github.com/AcidOP/ButterHostServer',
   },
   {
-    title: 'Butter Bot - Discord Bot',
-    description: `A mini e-commerce application built with Rails 6.1. This project was completed as part of the Lighthouse Labs Web Development Bootcamp. Jungle allows visitors to browse products, add them to their cart, and purchase them using Stripe. Admins can add and remove products and categories, and view sales data.`,
-    imgSrc: '/static/images/projectCards/jungle.jpg',
-    href: 'https://github.com/AcidOP/ButterHostServer',
+    title: 'Sacred Book - Mineraft Backdoor',
+    description:
+      'Sacred Book is a Minecraft backdoor that allows you to execute commands on the server without having to be an operator. It is a very powerful tool that can be used to do many things such as: teleport, find location of another player, get any item in game, enchant items, and much more.',
+    imgSrc: '/static/images/projects/sacred-book.png',
+    href: 'https://github.com/AcidOP/sacred-book',
   },
 ]
 
