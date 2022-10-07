@@ -3,11 +3,13 @@ const headerNavLinks = [
   { href: '/about', title: 'About' },
   { href: '/blog', title: 'Blogs' },
   { href: '/projects', title: 'Projects' },
-  { href: '/tools', title: 'Uses' },
   {
     type: 'dropdown',
     title: 'Other',
-    links: [{ href: '/tags', title: 'Tags' }],
+    links: [
+      { href: '/tags', title: 'Tags' },
+      { href: '/tools', title: 'Uses' },
+    ],
   },
 ]
 
