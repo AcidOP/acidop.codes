@@ -16,6 +16,7 @@ const siteMetadata = {
   twitter: 'https://twitter.com/whynotacid',
   facebook: 'https://www.facebook.com/curtis.wwwwww',
   youtube: 'https://youtube.com',
+  instagram: 'https://instagram.com/whynotacid',
   linkedin: '',
   locale: 'en-US',
   analytics: {

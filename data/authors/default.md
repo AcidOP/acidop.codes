@@ -13,25 +13,16 @@ acid@acidop.codes:~$ whoami
 * 17 year old High Schooler
 * Student at Burdwan Model School
 * Programming computers since 2017
-* Cybersecurity Enthusiast
 * I use Arch btw
 
 
-```bash
-acid@acidop.codes:~$ cat what-is-this.md
-```
+## What is this website?
 * My home on the world wide web
-* A place to share my code and 420 IQ thoughts
+* My place to share code and 420 IQ thoughts
 * Mixture of portfolio and blog
 
 
-```bash
-acid@acidop.codes:~$ cat how-to.md
-```
-
-How I built this website:
-
-* Next.js: The backbone of this site 🦴
-* Tailwind CSS: Tailwind for the beautiful UI 🎨
-* Framer Motion: For the animations 🎬
-* Gray Matter: For parsing the markdown files 📄
+## What will I find here?
+* Different kind of projects
+* Articles on programming and tech
+* My thoughts on various topics
