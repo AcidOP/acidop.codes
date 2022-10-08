@@ -5,7 +5,6 @@ import 'katex/dist/katex.css'
 import '@fontsource/inter/variable-full.css'
 
 import Head from 'next/head'
-import Script from 'next/script'
 import { ThemeProvider } from 'next-themes'
 
 import ScrollTop from '@/components/ScrollTop'
