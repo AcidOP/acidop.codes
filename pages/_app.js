@@ -5,6 +5,7 @@ import 'katex/dist/katex.css'
 import '@fontsource/inter/variable-full.css'
 
 import Head from 'next/head'
+import Script from 'next/script'
 import { ThemeProvider } from 'next-themes'
 
 import ScrollTop from '@/components/ScrollTop'
@@ -24,6 +25,7 @@ export default function App({ Component, pageProps }) {
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
+      <Script src="https://api.acidop.codes/latest.js" />
       <LayoutWrapper>
         <ScrollTop />
         <Component {...pageProps} />
