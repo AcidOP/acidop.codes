@@ -14,7 +14,6 @@ const siteMetadata = {
   email: 'acid@acidop.codes',
   github: 'https://github.com/AcidOP',
   twitter: 'https://twitter.com/whynotacid',
-  facebook: 'https://www.facebook.com/curtis.wwwwww',
   youtube: 'https://youtube.com',
   instagram: 'https://instagram.com/whynotacid',
   linkedin: '',

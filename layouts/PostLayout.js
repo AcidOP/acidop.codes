@@ -7,15 +7,10 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { useEffect, useRef, useState } from 'react'
 
-const twitterShare = (slug) =>
-  `https://twitter.com/intent/tweet?url=${encodeURIComponent(
-    `${siteMetadata.siteUrl}/blog/${slug}`
-  )}`
-
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children, toc }) {
-  const { slug, fileName, date, title, tags, readingTime } = frontMatter
+  const { slug, date, title, tags, readingTime } = frontMatter
   return (
     <SectionContainer>
       <BlogSEO
@@ -91,10 +86,10 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                       {author.avatar && (
                         <Image
                           src={author.avatar}
-                          width="38px"
-                          height="38px"
+                          width="80px"
+                          height="80px"
                           alt="avatar"
-                          className="h-10 w-10 rounded-full"
+                          className="rounded-full"
                         />
                       )}
                       <dl className="whitespace-nowrap text-sm font-medium leading-5">
