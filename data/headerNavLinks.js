@@ -6,7 +6,7 @@ const headerNavLinks = [
   { href: '/contact', title: 'Contact 🤳🏻' },
   {
     type: 'dropdown',
-    title: 'Other',
+    title: 'Other 👀',
     links: [
       { href: '/tags', title: 'Tags 🔖' },
       { href: '/tools', title: 'Uses ⚙' },

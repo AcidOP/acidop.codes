@@ -23,7 +23,7 @@ const NavigationBar = () => {
                   <Link
                     key={index}
                     href={link.href}
-                    className="p-1 text-gray-100 hover:text-primary-400 sm:p-4"
+                    className="p-1 font-bold text-gray-100 hover:text-primary-400 sm:p-4"
                   >
                     {link.title}
                   </Link>
@@ -33,8 +33,8 @@ const NavigationBar = () => {
                 return (
                   <Menu as="a" className="relative inline-block p-1 sm:p-4">
                     <div>
-                      <Menu.Button className="inline-flex justify-center rounded-md bg-transparent text-gray-100 hover:text-primary-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
-                        Other
+                      <Menu.Button className="inline-flex justify-center rounded-md bg-transparent font-bold text-gray-100 hover:text-primary-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
+                        {link.title}
                         <ChevronDownIcon className="ml-2 -mr-1 h-5 w-5" aria-hidden="true" />
                       </Menu.Button>
                     </div>
