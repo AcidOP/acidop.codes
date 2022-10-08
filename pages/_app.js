@@ -4,8 +4,8 @@ import 'katex/dist/katex.css'
 
 import '@fontsource/inter/variable-full.css'
 
-import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
+import { ThemeProvider } from 'next-themes'
 
 import ScrollTop from '@/components/ScrollTop'
 import siteMetadata from '@/data/siteMetadata'
