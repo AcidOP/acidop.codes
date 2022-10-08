@@ -25,7 +25,6 @@ export default function App({ Component, pageProps }) {
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
-      <Script src="https://api.acidop.codes/latest.js" />
       <LayoutWrapper>
         <ScrollTop />
         <Component {...pageProps} />
