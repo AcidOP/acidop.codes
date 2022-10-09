@@ -6,7 +6,7 @@ const Uses = () => {
   return (
     <>
       <PageSEO
-        title={`${siteMetadata.author} - Uses/Tools`}
+        title={`${siteMetadata.title} | Uses/Tools ⚙`}
         description={siteMetadata.description}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">

@@ -18,7 +18,7 @@ const ContactLink = ({ title, href, icon }) => {
 const Contact = () => {
   return (
     <>
-      <PageSEO title={`Contact - ${siteMetadata.author}`} description="All my contacts" />
+      <PageSEO title={`${siteMetadata.title} | Contact 🤳🏻`} description="All my contacts" />
       <div className="overflow-hidden">
         <h1 className="text-5xl font-extrabold tracking-tight">Contact</h1>
         <div className="max-w-max pt-10 pb-8">
