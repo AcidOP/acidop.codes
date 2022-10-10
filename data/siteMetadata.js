@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://acidop.codes',
   siteRepo: 'https://github.com/AcidOP/acidop.codes',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.jpg',
+  image: '/static/images/about-me.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'acid@acidop.codes',
   github: 'https://github.com/AcidOP',
