@@ -1,0 +1,6 @@
+// robots.txt
+
+# Allow all crawlers
+Sitemap: https://acidop.codes/sitemap.xml
+User-agent: *
+Allow: /
