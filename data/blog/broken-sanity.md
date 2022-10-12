@@ -14,7 +14,7 @@ authors: ['default']
 ### This is about **me**.
 
 
-Everything was so overwhelming at first. I learnt [react](https://reactjs.org) at first for the sake of single page applications. Then I came to know how it was so bad for SEO. Then I moved to [next.js](https://nextjs.org) for it's SSR and other features.
+Web Development was so overwhelming at first. I learnt [react](https://reactjs.org) at first for the sake of single page applications. Then I came to know how it was so bad for SEO. Then I moved to [next.js](https://nextjs.org) for it's SSR and other features.
 
 Although I have built my ([now previous](https://portfolio-website-tawny-xi.vercel.app/)) website using NextJS and Bootstrap, I was not satisfied with how it turned out to be. I wanted to build something which had more overall features.
 
