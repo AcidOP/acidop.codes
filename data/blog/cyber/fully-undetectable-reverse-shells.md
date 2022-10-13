@@ -14,19 +14,19 @@ authors: ['default']
 
 Not to worry anymore I got your back. I will show you how to create a reverse shell which is fully undetectable by Win Defender and other anti virus.
 
-# Introducing [Hoaxshell](https://github.com/t3l3machus/hoaxshell)
+# Introducing [Hoaxshell](https://github.com/t3l3machus/hoaxshell) 🚗
 ![Hoaxshell](/static/images/blogs/fully-undetectable-reverse-shells/hoaxshell-logo.png)
 
 Hoaxshell is a reverse shell which as of writing this post is **completely undetectable** by Defender and other Anti Viruses.
 
-# Setup
+# Setup 📐
 ```bash
 git clone https://github.com/t3l3machus/hoaxshell
 cd hoaxshell
 pip3 install -r requirements.txt
 ```
 
-# Usage
+# Usage 👊🏻
 ```bash
 python3 hoaxshell.py -h
 ```
@@ -38,6 +38,8 @@ You need to start by providing an IP to listen on
 ```bash
 sudo ifconfig
 ```
+
+![IP](/static/images/blogs/fully-undetectable-reverse-shells/find-ip.png)
 
 2. ### Start the listener
 ```bash
