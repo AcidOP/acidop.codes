@@ -4,7 +4,7 @@ import { PageSEO } from '@/components/SEO'
 const ContactLink = ({ title, href, icon }) => {
   return (
     <a href={href} target="_blank" rel="noopener noreferrer">
-      <li className="duration-250 mr-2 inline cursor-pointer text-xl transition-colors ease-in hover:text-gray-400 sm:text-6xl md:text-5xl lg:text-6xl">
+      <li className="duration-250 mr-2 inline cursor-pointer text-2xl transition-colors ease-in hover:text-gray-400 sm:text-6xl md:text-5xl lg:text-6xl">
         <span className="duration-250 transition-colors ease-in hover:text-primary-400">
           {icon}
         </span>
@@ -18,9 +18,12 @@ const ContactLink = ({ title, href, icon }) => {
 const Contact = () => {
   return (
     <>
-      <PageSEO title={`${siteMetadata.title} | Contact 🤳🏻`} description="All my contacts" />
-      <div className="overflow-hidden">
-        <h1 className="text-5xl font-extrabold tracking-tight">Contact</h1>
+      <PageSEO
+        title={`${siteMetadata.title} | Contact 🤳🏻`}
+        description="Here is how you can contact me"
+      />
+      <div>
+        <h1 className="text-5xl font-extrabold tracking-tight">Contact 📧</h1>
         <div className="max-w-max pt-10 pb-8">
           <ul className="font-semi-bold flex flex-col space-y-4">
             <ContactLink

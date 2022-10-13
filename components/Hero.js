@@ -6,7 +6,7 @@ export default function Hero() {
     <div className="flex w-full flex-col">
       <div className="space-y-4 pb-4 text-left md:space-y-5">
         <PageTitle>
-          Hi, I'm <span className="text-7xl font-thin text-primary-500">Acid</span>
+          Hi, I'm <span className="text-6xl font-thin text-primary-500 md:text-8xl">Acid</span>
           <span role="img" aria-label="waving hand" className="wave">
             👋🏻
           </span>
