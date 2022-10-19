@@ -6,7 +6,6 @@ draft: false
 summary: Create a reverse shell which is fully undetectable by Win Defender and other anti virus
 images: []
 layout: PostLayout
-canonicalUrl:
 authors: ['default']
 ---
 

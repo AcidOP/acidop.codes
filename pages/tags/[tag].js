@@ -48,6 +48,7 @@ export default function Tag({ posts, tag }) {
       <TagSEO
         title={`${tag} - ${siteMetadata.author}`}
         description={`${tag} tags - ${siteMetadata.author}`}
+        canonicalUrl={`${siteMetadata.siteUrl}/tags/${tag}`}
       />
       <ListLayout posts={posts} title={title} />
     </>
