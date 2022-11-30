@@ -1,8 +1,8 @@
 ---
 name: Acid
 avatar: /static/images/about-me.png
-occupation: Full Stack Developer
-occupation2: Pentester wannabe
+occupation: Full Stack Developer 🐛
+occupation2: Pentester wannabe 💀
 company: 
 email: acid@acidop.codes
 twitter: https://twitter.com/whynotacid
