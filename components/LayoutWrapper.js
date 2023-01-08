@@ -6,8 +6,8 @@ import NavigationBar from './NavigationBar'
 const LayoutWrapper = ({ children }) => {
   return (
     <>
-      <NavigationBar />
       <SectionContainer>
+        <NavigationBar />
         <main className="mb-auto">{children}</main>
         <Footer />
       </SectionContainer>

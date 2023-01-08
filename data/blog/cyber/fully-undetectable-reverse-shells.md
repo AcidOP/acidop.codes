@@ -5,6 +5,7 @@ tags: ['cybersecurity']
 draft: false
 summary: Create a reverse shell which is fully undetectable by Win Defender and other anti virus
 images: []
+canonicalUrl:
 layout: PostLayout
 authors: ['default']
 ---

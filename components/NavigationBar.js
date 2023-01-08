@@ -9,14 +9,15 @@ import Link from './Link'
 const NavigationBar = () => {
   return (
     <header className="mb-4 py-4">
-      <div className="mx-auto flex max-w-3xl items-center justify-between bg-cardBg bg-opacity-5 px-4 sm:px-6 xl:max-w-5xl xl:px-0">
+      <div className="mx-auto flex items-center justify-between bg-cardBg bg-opacity-5">
+        {/* <div className="mx-auto flex max-w-3xl items-center justify-between bg-cardBg bg-opacity-5 px-4 sm:px-6 xl:max-w-5xl xl:px-0"> */}
         <Link href="/" aria-label="AcidOP">
           <div className="mr-3 animate-pulse">
             <Logo />
           </div>
         </Link>
         <div className="flex items-center text-base leading-5">
-          <div className="hidden sm:block">
+          <div className="hidden sm:flex">
             {headerNavLinks.map((link, index) => {
               if (link.type !== 'dropdown') {
                 return (
