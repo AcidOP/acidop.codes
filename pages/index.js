@@ -5,7 +5,7 @@ import Hero from '@/components/Hero'
 export default function Home() {
   return (
     <>
-      <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
+      <PageSEO title="AcidOP | Developer | Blogger" description={siteMetadata.description} />
       <Hero />
     </>
   )

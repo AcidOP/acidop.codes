@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Acid',
   headerTitle: 'AcidOP',
   description:
-    'Personal blog and web development notes created by AcidOP. Also contains projects and personal interests.',
+    'Code like a boss and protect your cyber fortress with our blog. Web development, cybersecurity, and maybe a few jokes thrown in for good measure.',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://acidop.codes',
