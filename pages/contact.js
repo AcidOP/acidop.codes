@@ -22,7 +22,7 @@ const Contact = () => {
         title={`${siteMetadata.title} | Contact 🤳🏻`}
         description="Here is how you can contact me"
       />
-      <div className="2xl:h-[70vh]">
+      <div>
         <h1 className="text-5xl font-extrabold tracking-tight">Contact 📧</h1>
         <div className="max-w-max pt-10 pb-8">
           <ul className="font-semi-bold flex flex-col space-y-4">

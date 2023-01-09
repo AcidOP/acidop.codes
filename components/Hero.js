@@ -3,7 +3,7 @@ import PageTitle from './PageTitle'
 
 export default function Hero() {
   return (
-    <div className="flex w-full flex-col">
+    <div className="flex w-full flex-col ">
       <div className="space-y-4 pb-4 text-left md:space-y-5">
         <PageTitle>
           Hi, I'm <span className="text-6xl font-thin text-primary-500 md:text-8xl">Acid</span>
@@ -28,7 +28,7 @@ export default function Hero() {
           So if you're looking for a programming resource that won't make you fall asleep at your
           keyboard, even at a cost of a few brain cells 🧠, you've come to the right place! Thanks
           for stopping by, and don't be afraid to <Link href="/contact">reach out</Link> if you have
-          any questions or just want to connect. I'm always up for a good conversation and cheap
+          any questions or just want to connect. I'm always up for a good conversation some cheap
           laughs.
         </p>
         <p className="prose max-w-none pb-3 text-lg leading-7 text-gray-400">
@@ -36,6 +36,7 @@ export default function Hero() {
           <Link href="/about" className="text-primary-500 hover:text-primary-400">
             About Me
           </Link>
+          .
         </p>
       </div>
     </div>

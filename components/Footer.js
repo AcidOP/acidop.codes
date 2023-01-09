@@ -5,7 +5,7 @@ export default function Footer() {
   const date = new Date()
   const currentDayName = date.toLocaleString('default', { weekday: 'long' })
   return (
-    <footer className="my-10 mr-5 flex flex-col items-center justify-between md:flex-row">
+    <footer className="my-16 mr-5 flex flex-col items-center justify-between md:flex-row">
       <div className="mb-3 flex space-x-4">
         <SocialIcon kind="github" href={siteMetadata.github} size="5" />
         <SocialIcon kind="instagram" href={siteMetadata.instagram} size="5" />
