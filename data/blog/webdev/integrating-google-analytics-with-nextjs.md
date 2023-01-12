@@ -10,7 +10,7 @@ canonicalUrl:
 authors: ['default']
 ---
 
-# Topics covered 👀
+# Topics covered:
 
 In this blog post, we'll setup Google Analytics with your **Next.js app** and take it to the **next** level. (See what we did there? 😎)
 
