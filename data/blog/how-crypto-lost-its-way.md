@@ -1,5 +1,5 @@
 ---
-title: "The Crypto Dilemma: How crypto lost its way"
+title: "The Crypto Dilemma: How crypto lost its way 😞"
 date: '2023-01-22'
 tags: ['thoughts']
 draft: false
