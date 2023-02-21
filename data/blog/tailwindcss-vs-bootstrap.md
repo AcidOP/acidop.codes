@@ -1,7 +1,7 @@
 ---
 title: "TailwindCSS vs Bootstrap: Which CSS Framework is Better?"
 date: '2023-02-21'
-tags: []
+tags: ['Development']
 draft: false
 summary: "TailwindCSS and Bootstrap are popular CSS frameworks for web development. TailwindCSS is flexible and customizable, while Bootstrap is known for its pre-built components and easy-to-use grid system. The blog compares the two frameworks and highlights their differences in customization, file size, learning curve, responsiveness, browser compatibility, documentation, and popularity."
 images: []

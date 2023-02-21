@@ -1,7 +1,7 @@
 ---
 title: "Setup Google Analytics with Next.js (4 easy steps)"
 date: '2023-01-09'
-tags: ['development','nextjs']
+tags: ['webdev','nextjs']
 draft: false
 summary: Add Google Analytics to your Next.js app in 4 easy steps. Learn how to install the required package, add the tracking code, and test everything is working properly. Follow this guide to increase leads and improve your site's performance with Google Analytics.
 images: []

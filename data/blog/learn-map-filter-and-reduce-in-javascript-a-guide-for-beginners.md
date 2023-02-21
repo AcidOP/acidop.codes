@@ -1,7 +1,7 @@
 ---
 title: "Learn map, filter and reduce in JavaScript: A Guide for Beginners"
 date: '2023-02-13'
-tags: ['react','webdev']
+tags: ['cheatsheet']
 draft: false
 summary: "This blog teaches the basics of Map, Filter, and Reduce in JavaScript. These functions allow you to work with arrays in a simple and efficient way, making your code more readable and manageable. With clear explanations and examples, you'll learn why Map, Filter, and Reduce are must-have tools for any JavaScript developer."
 images: []
