@@ -10,13 +10,13 @@ canonicalUrl:
 authors: ['default']
 ---
 
-## Introduction: My Journey with the Internet
+# Introduction: My Journey with the Internet
 
 Looking back at my 10-year journey with the internet, I can't help but feel nostalgic. It's amazing how much the internet has evolved since I was first introduced to it as a young child. From painfully slow downloads and expensive data rates to lightning-fast 4G connections and affordable plans, it's been quite a ride.
 
 Not everything has been great though. The internet has also brought with it a lot of negative aspects. Read through to find out what I mean.
 
-## I was introduced to internet
+# I was introduced to internet
 
 ![Introduced](/static/images/blogs/i-watched-the-internet-grow/introduced.png)
 
@@ -24,7 +24,7 @@ When I was in `1st Grade`, I was introduced to the internet. I admit I had no da
 
 I mean partially true right?
 
-## Expensive collectible
+# Expensive collectible
 
 Back then the internet (in India) was really expensive. And it was a luxury item.
 
@@ -39,7 +39,7 @@ Here are some rates I remember:
 
 These rates are jaw-droppingly overpriced compared to today.
 
-## I onboarded the internet
+# I onboarded the internet
 
 I became a regular user of the internet in the 2015-ish time. I remember I wanted to be a DJ and music producer so I used to vibe to different artists on Soundcloud. I downloaded [FL Studio](https://www.image-line.com/fl-studio/) and I kept trying to be the next prodigy. Every song 5 MB song used to take like 10 minutes to download on a good day.
 
@@ -51,7 +51,7 @@ I remember I also had this small keypad phone which had Opera inbuilt. So I used
 
 My desire to become a world famous DJ later faded away as did my pocket money to buy internet. 😔
 
-## Things changed
+# Things changed
 
 Over the years the internet did get a lot cheaper and a lot faster (thanks to 4G internet). I still posted to social media although my content isn't as cringe-worthy as it once was. I should also admit I spent many Gigabytes watching some not-so-family-friendly content 😆 (If you know, you know). I still listened to music a lot although that desire to become a DJ demised.
 
@@ -63,7 +63,7 @@ The years 2016-2019 were the best years of my life. I did not spend too much tim
 
 There you have me, now a completely baffled young adult (Still childish however). That was my 10 year journey of the internet.
 
-## Things I don't like
+# Things I don't like
 
 As much as I love the internet there are some things I hate. 
 
@@ -73,7 +73,7 @@ As much as I love the internet there are some things I hate.
 
 - Videography. Everyone wants to record for the show but nobody wants to capture for the memories. You go to any concerts or other places you'll find people recording for flexing to others. It just ruins the moment.
 
-## Conclusion
+# Conclusion
 
 Looking back at my 10-year journey with the internet, I can't help but feel grateful for all the wonderful experiences it has brought into my life. From discovering my passion for music and other hobbies, to becoming a self-taught developer, the internet has been a catalyst for my personal growth.
 
