@@ -1,5 +1,5 @@
 ---
-title: I watched the internet grow
+title: 10 years on the internet
 date: '2023-02-22'
 tags: ['thoughts']
 draft: false
