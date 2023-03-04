@@ -22,7 +22,7 @@ The Map function is used to perform operations on each element in an array and c
 
 It returns a new array with the results of the function applied to each element in the array.
 
-# Examples: Map function
+### Examples: Map function
 
 * Function to double every number in an array
 
@@ -45,7 +45,7 @@ The Filter function is used to extract specific elements from an array based on 
 
 It returns a new array with the elements that pass the condition.
 
-# Examples: Filter function
+### Examples: Filter function
 
 * Function to extract only even numbers from an array
 
@@ -72,7 +72,7 @@ The Reduce function is used to simplify an array into a single value by performi
 
 It returns a single value.
 
-# Examples: Reduce function
+### Examples: Reduce function
 
 * Function to find the sum of all numbers in an array
 
