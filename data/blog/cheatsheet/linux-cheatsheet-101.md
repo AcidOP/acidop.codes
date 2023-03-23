@@ -3,7 +3,7 @@ title: The Ultimate Linux Cheat Code Handbook
 date: '2023-03-23'
 tags: ['cheatsheet']
 draft: false
-summary: You think you know Linux? Think again, loser. With this cheat code handbook, you'll be hacking your way to total system domination in no time. No more begging for help on forums or struggling with confusing command lines. Get your copy now and start pwning the competition like the badass you are!
+summary: You think you know Linux? Think again. With this cheat code handbook, you'll be hacking your way to total system domination in no time. No more begging for help on forums or struggling with confusing command lines. Get your copy now and start pwning the competition like the badass you are!
 images: []
 layout: PostLayout
 canonicalUrl:
