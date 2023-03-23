@@ -10,11 +10,15 @@ canonicalUrl:
 authors: ['default']
 ---
 
+You think you know Linux? Think again. With this cheat code handbook, you'll be hacking your way to total system domination in no time. No more begging for help on forums or struggling with confusing command lines. Get your copy now and start pwning the competition like the badass you are!
+
+<br />
+
 <TOCInline toc={props.toc} toHeading={3} indentDepth={3} />
 
 <br />
 
-# Basic System Commands
+## Basic System Commands
 
 | Command | Description                                       |
 |---------|---------------------------------------------------|
@@ -34,7 +38,7 @@ authors: ['default']
 | shutdown| shuts down the system                             |
 
 
-# File Commands
+## File Commands
 
 | Command | Description                                        |
 |---------|----------------------------------------------------|
@@ -57,7 +61,7 @@ authors: ['default']
 | rm -f   | removes files and directories forcefully           |
 | rm -rf  | removes files and directories forcefully recursively|
 
-# File Permissions
+## File Permissions
 
 | Command               | Description                                            |
 |-----------------------|--------------------------------------------------------|
@@ -69,7 +73,7 @@ authors: ['default']
 | chmod u+x file        | gives execute permission to the owner                  |
 | chmod g+x file        | gives execute permission to the group                  |
 
-# Users and Groups
+## Users and Groups
 
 | Command               | Description                                            |
 |-----------------------|--------------------------------------------------------|
@@ -86,7 +90,7 @@ authors: ['default']
 | usermod               | modifies a user account                                |
 | chgrp group file      | changes the group ownership of a file                  |
 
-# Package Management (Needs `sudo`)
+## Package Management (Needs `sudo`)
 
 | Command               | Description                                            |
 |-----------------------|--------------------------------------------------------|
@@ -101,7 +105,7 @@ authors: ['default']
 | apt autoclean         | removes old downloaded package files                   |
 
 
-# SSH
+## SSH
 
 | Command               | Description                                            |
 |-----------------------|--------------------------------------------------------|
@@ -112,7 +116,7 @@ authors: ['default']
 | ssh -i key user@host  | connects to a remote host using a specific SSH key     |
 | scp file user@host:   | copies a file to a remote host                         |
 
-# System Info
+## System Info
 
 | Command               | Description                                            |
 |-----------------------|--------------------------------------------------------|
@@ -128,7 +132,7 @@ authors: ['default']
 | df                    | displays the amount of disk space available            |
 | man                   | displays manual page                                   |
 
-# Privilege Escalation
+## Privilege Escalation
 
 | Command | Description                                        |
 |---------|----------------------------------------------------|
@@ -139,7 +143,7 @@ authors: ['default']
 | sudo -u | allows a user to execute a command as another user |
 | sudo -l | allows a user to list the allowed commands         |
 
-# Archiving
+## Archiving
 
 | Command                  | Description                                         |
 |--------------------------|-----------------------------------------------------|
@@ -150,7 +154,7 @@ authors: ['default']
 | zip archive.zip file     | creates a new archive in ZIP format                 |
 | unzip archive.zip        | extracts files from an archive in ZIP format        |
 
-# Searching
+## Searching
 
 | Command                  | Description                                         |
 |--------------------------|-----------------------------------------------------|
@@ -165,7 +169,7 @@ authors: ['default']
 | find / -name file        | searches for a file in the entire system            |
 | find / -name file -type f| searches for a file in the entire system for file types|
 
-# Process Management
+## Process Management
 
 | Command                  | Description                                         |
 |--------------------------|-----------------------------------------------------|
@@ -177,7 +181,7 @@ authors: ['default']
 | bg                       | List and resume stopped jobs in the background      |
 | fg                       | Bring the most recently suspended job to the foreground|
 
-# Networking
+## Networking
 
 | Command                  | Description                                         |
 |--------------------------|-----------------------------------------------------|
@@ -194,7 +198,7 @@ authors: ['default']
 | nslookup domain          | performs DNS lookup for a domain                    |
 | ping domain              | pings a domain and displays the result              |
 
-# Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Command                  | Description                                         |
 |--------------------------|-----------------------------------------------------|
